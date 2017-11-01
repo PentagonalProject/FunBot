@@ -175,3 +175,6 @@ node_modules
 
 # ignore package lock
 package-lock.json
+
+# ignore dev config
+config.dev.js
